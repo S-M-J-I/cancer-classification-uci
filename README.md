@@ -1,6 +1,7 @@
 # Breast Cancer Classification
 
-A short task of predicting breast cancer and finding out the perfect model for it using the [UCI Wisconsin Breast Cancer dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data](https://www.kaggle.com/datasets/jeandedieunyandwi/breast-cancer-dataset-uci-ml)
+A short task of predicting breast cancer and finding out the perfect model for it using the [UCI Wisconsin Breast Cancer dataset ](https://www.kaggle.com/datasets/jeandedieunyandwi/breast-cancer-dataset-uci-ml)
+
 <br>
 
 ### Technologies used:
